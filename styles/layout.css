@@ -1,0 +1,28 @@
+.mainbody {
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+
+.tableau {
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+/* .header {
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+} */
+
+.specialheader {
+    width: 400px; /* Set the width you want */
+    margin: 0 auto; /* Center the element */
+    /* border: 1px solid; Optional: customize the border */
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
